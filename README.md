@@ -10,6 +10,6 @@ We then proceeded to eliminate Thomas High School 9th graders to see how they we
 
 
 
-![Correct District Analysis Chart]{Resources/District_Analysis_Chart}
+![Correct District Analysis Chart]("Resources/District_Analysis_Chart")
 
 ## Summary:
